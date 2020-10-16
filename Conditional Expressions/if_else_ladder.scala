@@ -1,3 +1,5 @@
+// if else ladder
+
 var  resume:String ="selected not"
 if( resume == "selected" ){
   println("Welcome to Status Neo")
