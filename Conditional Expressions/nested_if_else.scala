@@ -1,3 +1,5 @@
+//nested if else
+
 var Resume:String = "selected"
 var interview:String = "not clear"
 if(Resume == "selected") {
